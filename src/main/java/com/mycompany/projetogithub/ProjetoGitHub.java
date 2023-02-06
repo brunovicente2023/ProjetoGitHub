@@ -7,11 +7,12 @@ package com.mycompany.projetogithub;
 
 /**
  *
- * @author a17807
+ * @author Bruno Vicente
  */
 public class ProjetoGitHub {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Olá M undo!");
+        //falta aqui um comentário
     }
 }
